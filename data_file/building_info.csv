@@ -1,0 +1,101 @@
+,building_number,building_type,total_area,cooling_area,solar_power_capacity,ess_capacity,pcs_capacity
+0,1,Other Buildings,110634.0,39570.0,-,-,-
+1,2,Other Buildings,122233.47,99000.0,-,-,-
+2,3,Other Buildings,171243.0,113950.0,40,-,-
+3,4,Other Buildings,74312.98,34419.62,60,-,-
+4,5,Other Buildings,205884.0,150000.0,-,2557,1000
+5,6,Other Buildings,205754.0,74565.0,-,-,-
+6,7,Other Buildings,101711.52,41341.1,-,800,300
+7,8,Other Buildings,75344.54,24117.0,-,-,-
+8,9,Other Buildings,222882.35,15651.18,-,-,-
+9,10,Other Buildings,31062.0,18637.0,-,-,-
+10,11,Other Buildings,45956.56,13190.98,447.2,-,-
+11,12,Other Buildings,70163.1,3598.21,130.6,-,-
+12,13,Other Buildings,5578.4,3500.0,-,-,-
+13,14,Other Buildings,16844.16,14102.92,56,-,-
+14,15,Other Buildings,167012.31,167012.31,-,-,-
+15,16,Public,240038.0,95175.0,20,-,-
+16,17,Public,66467.0,46896.0,-,-,-
+17,18,Public,75624.56,39915.1,64.8,-,-
+18,19,Public,90730.4,90730.0,-,1362,500
+19,20,Public,12872877.0,10941945.0,-,-,-
+20,21,Public,61469.67,43970.64,70,837.1,500
+21,22,Public,61375.47,19800.0,110,-,-
+22,23,Public,32236.11,16565.0,-,-,-
+23,24,University,659696.91,516097.85,97.65,-,-
+24,25,University,528014.05,369812.24,50,-,-
+25,26,University,386466.9,162020.0,26.64,-,-
+26,27,University,578484.113,501381.53,30,-,-
+27,28,University,249494.0,130520.0,50,-,-
+28,29,University,199623.0,77202.0,25,-,-
+29,30,University,155785.0,106305.0,20,-,-
+30,31,University,201781.0,119836.0,83.72,-,-
+31,32,Data Center,35300.0,14687.0,-,-,-
+32,33,Data Center,28059.0,20397.0,-,-,-
+33,34,Data Center,10665.0,9402.0,-,-,-
+34,35,Data Center,9736.0,6070.0,-,-,-
+35,36,Data Center,8816.49,8816.49,-,-,-
+36,37,Department Store and Outlet,98528.77,75517.52,35,-,-
+37,38,Department Store and Outlet,58763.89,35136.56,-,-,-
+38,39,Department Store and Outlet,126835.0,65596.0,-,-,-
+39,40,Department Store and Outlet,58483.0,40775.0,-,-,-
+40,41,Department Store and Outlet,161950.4,60579.45,-,-,-
+41,42,Department Store and Outlet,97915.1,72000.0,-,-,-
+42,43,Department Store and Outlet,148883.85,35633.2,-,-,-
+43,44,Department Store and Outlet,78116.83,76458.32,-,-,-
+44,45,Hospital,86787.03,70579.0,-,-,-
+45,46,Hospital,85869.49,78675.0,100.56,-,-
+46,47,Hospital,191624.0,163255.0,-,-,-
+47,48,Hospital,66729.0,50000.0,200,-,-
+48,49,Hospital,112953.61,70301.0,46.2,-,-
+49,50,Hospital,91967.0,75836.0,3,-,-
+50,51,Hospital,88242.76,80566.0,-,-,-
+51,52,Hospital,91634.21,69227.19,25,-,-
+52,53,Commercial,149246.0,110759.0,-,-,-
+53,54,Commercial,109400.2,65803.57,-,-,-
+54,55,Commercial,25341.87,13040.1,-,-,-
+55,56,Commercial,42666.54,7259.1,-,-,-
+56,57,Commercial,105473.46,55586.72,200,-,-
+57,58,Commercial,14897.0,7071.92,9.45,-,-
+58,59,Commercial,105500.72,84402.0,-,-,-
+59,60,Commercial,188902.07,142187.28,365,-,-
+60,61,Apartment,667131.0,539213.0,-,-,-
+61,62,Apartment,233187.0,178666.0,-,-,-
+62,63,Apartment,187737.0,158300.0,-,-,-
+63,64,Apartment,240551.0,198767.0,-,-,-
+64,65,Apartment,183839.0,0.0,-,-,-
+65,66,Apartment,105073.0,0.0,-,-,-
+66,67,Apartment,85244.0,59671.0,-,-,-
+67,68,Apartment,389395.928,0.0,-,-,-
+68,69,Research Institute,139928.73,111183.19,14.4,-,-
+69,70,Research Institute,141014.0,120000.0,28.44,-,-
+70,71,Research Institute,90896.0,44536.0,65,3100,800
+71,72,Research Institute,31503.0,12667.0,95,-,-
+72,73,Research Institute,109894.22,87915.2,60.45,-,-
+73,74,Research Institute,253743.0,142705.0,621,-,-
+74,75,Research Institute,88898.41,51561.08,-,-,-
+75,76,Research Institute,38668.17,38452.11,100,-,-
+76,77,Knowledge Industry Center,67377.14,1.0,-,-,-
+77,78,Knowledge Industry Center,136921.0,71771.0,-,-,-
+78,79,Knowledge Industry Center,212995.84,103115.37,-,-,-
+79,80,Knowledge Industry Center,256370.24,239.0,-,-,-
+80,81,Knowledge Industry Center,115358.28,65020.94,-,-,-
+81,82,Knowledge Industry Center,225651.0,114772.0,-,-,-
+82,83,Knowledge Industry Center,199116.93,99603.87,-,-,-
+83,84,Knowledge Industry Center,174408.2,109973.1,-,-,-
+84,85,Discount Mart,71591.0,35000.0,-,-,-
+85,86,Discount Mart,54866.51,30953.0,97.85,-,-
+86,87,Discount Mart,65118.0,34007.0,-,-,-
+87,88,Discount Mart,48452.52,30309.69,-,-,-
+88,89,Discount Mart,78454.0,13362.0,-,-,-
+89,90,Discount Mart,77917.0,35676.0,-,-,-
+90,91,Discount Mart,63865.0,49258.0,-,-,-
+91,92,Discount Mart,80491.0,18549.5,98.28,-,-
+92,93,Hotel and Resort,34845.18,31124.0,21.6,-,-
+93,94,Hotel and Resort,62156.0,56060.0,-,-,-
+94,95,Hotel and Resort,196992.54,57022.55,-,-,-
+95,96,Hotel and Resort,93314.0,60500.0,-,-,-
+96,97,Hotel and Resort,55144.67,25880.0,-,-,-
+97,98,Hotel and Resort,53578.62,17373.75,-,-,-
+98,99,Hotel and Resort,53499.0,40636.0,-,-,-
+99,100,Hotel and Resort,57497.84,40035.23,-,-,-
